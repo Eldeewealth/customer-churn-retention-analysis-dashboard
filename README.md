@@ -27,7 +27,7 @@ The final deliverable reflects a real-world analytics workflow, from data explor
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](./dashboard.jpeg)
+![Dashboard Preview](./screenshots/dashboard.jpeg)
 
 ---
 
@@ -86,8 +86,7 @@ Key analytical areas explored:
 
 ## 🛠️ Tools & Technologies
 
-- Microsoft Excel  
-- Google Sheets  
+- Microsoft Excel   
 - Pivot Tables  
 - Data Cleaning & Transformation  
 - Data Visualisation (Dashboard Design)  
@@ -99,12 +98,6 @@ Raw_Data → Data source
 Analysis → Aggregated insights (pivot tables)
 Dashboard → Visual analytics
 Insights_Recommendations → Business insights & strategy
-
----
-
-## 🌐 Live Project
-
-👉 Google Sheets Version: [Add your link here]
 
 ---
 
