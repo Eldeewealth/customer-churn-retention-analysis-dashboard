@@ -1,10 +1,6 @@
 # 📊 Databel Customer Churn Insights & Retention Dashboard
 
-https://img.shields.io/badge/Tool-Excel-green
-https://img.shields.io/badge/Platform-Google%20Sheets-brightgreen
-https://img.shields.io/badge/Focus-Data%20Analysis-blue
-https://img.shields.io/badge/Type-Dashboard-orange
-https://img.shields.io/badge/Project-Completed-success
+![Excel](https://img.shields.io/badge/Tool-Excel-green) ![Google Sheets](https://img.shields.io/badge/Platform-Google%20Sheets-brightgreen) ![Data Analysis](https://img.shields.io/badge/Focus-Data%20Analysis-blue) ![Dashboard](https://img.shields.io/badge/Type-Dashboard-orange) ![Completed](https://img.shields.io/badge/Project-Completed-success)
 
 ---
 
@@ -31,7 +27,7 @@ The final deliverable reflects a real-world analytics workflow, from data explor
 
 ## 📊 Dashboard Preview
 
-./screenshots/dashboard.png
+![Dashboard Preview](./screenshots/dashboard.jpeg)
 
 ---
 
@@ -99,3 +95,69 @@ Key analytical areas explored:
 ---
 
 ## 📊 Project Structure
+Raw_Data → Data source
+Analysis → Aggregated insights (pivot tables)
+Dashboard → Visual analytics
+Insights_Recommendations → Business insights & strategy
+
+---
+
+## 🌐 Live Project
+
+👉 Google Sheets Version: [Add your link here]
+
+---
+
+## 📊 Dashboard Highlights
+
+The dashboard provides a consolidated view of customer churn patterns through:
+
+- 📌 KPI overview (Total Customers, Churned Customers, Churn Rate)  
+- 📌 Customer segmentation by age group and tenure  
+- 📌 Behavioural analysis based on data usage patterns  
+- 📌 Contract type analysis (month-to-month vs long-term)  
+- 📌 Geographic distribution of churn across states  
+- 📌 Churn drivers including competitor influence and service factors  
+
+---
+
+## 📌 Key Takeaway
+
+This project demonstrates the ability to:
+
+- Transform raw data into structured analytical insights  
+- Develop interactive dashboards for business decision-making  
+- Identify high-risk customer segments  
+- Translate data findings into actionable retention strategies  
+
+---
+
+## 💼 Business Impact
+
+Reducing churn by even a small margin (e.g. 5%) can significantly improve:
+
+- Customer lifetime value  
+- Revenue stability  
+- Customer satisfaction and retention  
+
+The insights generated in this analysis provide a foundation for data-driven interventions that can directly support business growth.
+
+---
+
+## 🙌 Acknowledgement
+
+This project builds upon a DataCamp customer churn case study dataset.
+
+The analysis was significantly extended through independent work, including additional data exploration, dashboard development, and strategic business recommendations to reflect a real-world analytics workflow.
+
+---
+
+## 📬 Contact
+
+If you would like to discuss this project or collaborate:
+
+-🔗 LinkedIn: [https://linkedin.com/in/amlovedayokoro]  
+-🌐 Portfolio: [https://loveday-data-profile.vercel.app]
+---
+
+⭐ *Thank you for viewing this project!*
