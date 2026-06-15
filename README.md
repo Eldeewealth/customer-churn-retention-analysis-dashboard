@@ -27,7 +27,7 @@ The final deliverable reflects a real-world analytics workflow, from data explor
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](./screenshots/dashboard.jpeg)
+![Dashboard Preview](./dashboard.jpeg)
 
 ---
 
