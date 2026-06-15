@@ -149,7 +149,7 @@ The analysis was significantly extended through independent work, including addi
 
 If you would like to discuss this project or collaborate:
 
--🔗 LinkedIn: [https://linkedin.com/in/amlovedayokoro]  
+-🔗 LinkedIn: [LinkedIn(https://linkedin.com/in/amlovedayokoro)]  
 -🌐 Portfolio: [https://loveday-data-profile.vercel.app]
 ---
 
