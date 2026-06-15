@@ -1,6 +1,6 @@
 # 📊 Databel Customer Churn Insights & Retention Dashboard
 
-![Excel](https://img.shields.io/badge/Tool-Excel-green) ![Google Sheets](https://img.shields.io/badge/Platform-Google%20Sheets-brightgreen) ![Data Analysis](https://img.shields.io/badge/Focus-Data%20Analysis-blue) ![Dashboard](https://img.shields.io/badge/Type-Dashboard-orange) ![Completed](https://img.shields.io/badge/Project-Completed-success)
+![Excel](https://img.shields.io/badge/Tool-Excel-green) ![Data Analysis](https://img.shields.io/badge/Focus-Data%20Analysis-blue) ![Dashboard](https://img.shields.io/badge/Type-Dashboard-orange) ![Completed](https://img.shields.io/badge/Project-Completed-success)
 
 ---
 
